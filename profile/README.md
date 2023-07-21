@@ -19,6 +19,9 @@ To create a safe space for interaction between users, where they can share, coll
 
 <img width="461" alt="image" src="https://github.com/YouthConnect/.github/assets/115164153/f4997916-ed14-4ab4-81d7-3a01283dcf00">
 
+### Project Prep #4
+
+<img width="308" alt="image" src="https://github.com/YouthConnect/.github/assets/115164153/9014e127-4187-4c48-96e1-aa6de0027b22">
 
 <!--
 
