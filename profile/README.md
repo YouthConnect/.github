@@ -2,21 +2,16 @@
 
 # Youth Connect - The app
 
-</div>
 
-![Youth Connect Logo](./assets/adaptive-icon.png)
+
+![Youth Connect Logo](https://github.com/YouthConnect/youth-connect-frontend/blob/readme/assets/adaptive-icon%20copy.png?raw=true')
+
+</div>
 
 <div align='center'>
 
 ## The purpose of Youth Connect
 To create a safe space for interaction between users, where they can share, collaborate, and seek help with homework or related topics. The app aims to provide a platform that ensures privacy, data security, and user-friendly features for effective communication. The greatest emphasis of the app is controlling interactions and groupd to keep everyone safe.
-
-## Authors
-- [Ethan Storm](https://github.com/ShadowDraco)
-- [Kaeden O'Meara](https://github.com/KaedenOC)
-- [Eva Grace Smith](https://github.com/EvaGraceSmith)
-- [Coriana Williams](https://github.com/Coriana1)
-- [Emmanuel Gonzales](https://github.com/Emmanuel-Gonzales)
 
 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
@@ -28,6 +23,13 @@ To create a safe space for interaction between users, where they can share, coll
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SqlLite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue) ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Render](https://img.shields.io/badge/render-0A0A0A?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
+
+## Authors
+- [Ethan Storm](https://github.com/ShadowDraco)
+- [Kaeden O'Meara](https://github.com/KaedenOC)
+- [Eva Grace Smith](https://github.com/EvaGraceSmith)
+- [Coriana Williams](https://github.com/Coriana1)
+- [Emmanuel Gonzales](https://github.com/Emmanuel-Gonzales)
 
 ## What is this project? <img src='https://github.com/YouthConnect/youth-connect-frontend/blob/readme/assets/adaptive-icon%20copy.png?raw=true' width='20px'>
 
@@ -69,13 +71,6 @@ To create a safe space for interaction between users, where they can share, coll
   - organize your space and chats
 - Use your preferred light/dark **Theme**
 
-## UML, Wireframe, and User Stories <img src='https://github.com/YouthConnect/youth-connect-frontend/blob/readme/assets/adaptive-icon%20copy.png?raw=true' width='20px'>
-
-<div align="center">
-
-![Wireframe](./assets/wireframe.png) ![User Stories](./assets/userStories.png) ![UML](./assets/UML.png)
-
-</div>
 
 ### How to run on your device <img src='https://github.com/YouthConnect/youth-connect-frontend/blob/readme/assets/adaptive-icon%20copy.png?raw=true' width='20px'>
 
@@ -90,6 +85,14 @@ To create a safe space for interaction between users, where they can share, coll
 - `npm i`
 - `npx expo start`
 - `npx expo start --tunnel` (if npx expo start does not work for you locally)
+
+## UML, Wireframe, and User Stories <img src='https://github.com/YouthConnect/youth-connect-frontend/blob/readme/assets/adaptive-icon%20copy.png?raw=true' width='20px'>
+
+<div align="center">
+
+![Wireframe](./assets/wireframe.png) ![User Stories](./assets/userStories.png) ![UML](./assets/UML.png)
+
+</div>
 
 
 ### Please view information about the backend at [Youth Connect Backend](https://github.com/youthconnect/youth-connect-backend)
