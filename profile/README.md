@@ -90,7 +90,7 @@ To create a safe space for interaction between users, where they can share, coll
 
 <div align="center">
 
-![Wireframe](./assets/wireframe.png) ![User Stories](./assets/userStories.png) ![UML](./assets/UML.png)
+![Wireframe](./assets/wireframe.png) ![User Stories](https://github.com/YouthConnect/youth-connect-frontend/blob/main/assets/userStories.png) ![UML](./assets/UML.png)
 
 </div>
 
